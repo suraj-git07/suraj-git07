@@ -1,9 +1,6 @@
 ## Hello I am SURAJ MISHRA <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-<p align='center'>
-</p>
+
 Skills: C++/Python
-<p>
-</p>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Structure and Algorithms . 
