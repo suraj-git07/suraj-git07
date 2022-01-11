@@ -12,7 +12,7 @@ Skills: C++/Python
 <a href = 'https://www.instagram.com/_samrat_3000/'> <img width = '32px' align= 'center'       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"/></a>
 <a href = 'https://twitter.com/Suraj_Mishra7?t=NsYT9XMS9x1PDWbYGju94A&s=09'> <img width = '32px' align= 'center'       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/640px-Twitter-logo.svg.png"/></a>
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=180px alt="side_sticker" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" />
 
 ### __Languages and Tools__:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
