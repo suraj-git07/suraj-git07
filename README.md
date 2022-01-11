@@ -2,8 +2,7 @@
 
 Skills: C++/Python
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data Structure and Algorithms . 
+- 🌱 I’m currently learning about Web3 and Solidity . 
 - 📫 How to reach me: suraj844722@gmail.com 
 
 ### __Connect with me__  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">
