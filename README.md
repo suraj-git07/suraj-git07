@@ -1,6 +1,6 @@
 ## Hello I am SURAJ MISHRA <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-Skills: C++/Python
+Skills:Web_dev, Dapp on Ehereum
 
 - 🌱 I’m currently learning about Web3 and Web-Dev . 
 - 📫 How to reach me: suraj844722@gmail.com 
