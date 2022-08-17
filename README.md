@@ -1,20 +1,28 @@
 ![header](https://media-exp1.licdn.com/dms/image/C4D16AQHeZjmr4D5Ynw/profile-displaybackgroundimage-shrink_350_1400/0/1660760547902?e=1666224000&v=beta&t=9z7pfCBet4xLsYK8LF-LofRcA9ezpJfLVeA8lEkk4bY)
 
-## Hello I am SURAJ MISHRA <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+<h1 align="center"> Suraj Mishra </h1>
 
-Skills: Smart Contract Creaction | Blockchain | Web3.0 | Web2.0 | 
+<h4 align="center">  Smart Contract | Blockchain Developer | Web3.0 | Web2.0  </h4>
+<hr>
 
-- 🌱 I’m currently learning about Web3.0 
-- 📫 How to reach me: suraj844722@gmail.com 
+<h3 >About Me:</h3>
+ 
+ - 👨‍🎓 First year Btech Student in USICT, GGSIPU
+ - 📃 I am a Smart contract developer 
+ - 🌱 I’m currently learning about diffrent Web3.0 tech 
+ - 📫 How to reach me: suraj844722@gmail.com 
 
-### __Connect with me__  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px">
+<hr>
+<h3 align="center" > Connect with me </h3>
 
 
-<a href = 'https://www.linkedin.com/in/suraj-mishra-6935b5222'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.instagram.com/_samrat_3000/'> <img width = '32px' align= 'center'       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"/></a>
-<a href = 'https://twitter.com/Suraj_Mishra7?t=NsYT9XMS9x1PDWbYGju94A&s=09'> <img width = '32px' align= 'center'       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/640px-Twitter-logo.svg.png"/></a>
+<p align="center"><a href = 'https://www.linkedin.com/in/suraj-mishra-6935b5222'> <img width = '32px' align= 'center' src="https://media.giphy.com/media/QhPL2mdDVzeuHiRcIw/giphy.gif"/></a> 
+<a href = 'https://www.instagram.com/_samrat_3000/'> <img width = '32px' align= 'center'src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif"/></a>
+<a href = 'https://twitter.com/Suraj_Mishra7?t=NsYT9XMS9x1PDWbYGju94A&s=09'> <img width = '32px' align= 'center'       src="https://media.giphy.com/media/e6YbWDajUKSzebFVuB/giphy.gif"/></a>
 
-<img align="right" width=200px height=180px alt="side_sticker" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" />
+<img align="right" width=200px height=180px alt="side_sticker" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" /></p>
+
+<hr>
 
 ### __Languages and Tools__:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
@@ -24,6 +32,8 @@ Skills: Smart Contract Creaction | Blockchain | Web3.0 | Web2.0 |
 
 
 <img src = "https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" alt = "Ethereum" width = "45" height = "45"/><img src = "https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt = "nodejs" width = "45" height = "45"/>
+
+<hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
 | ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj-git07&show_icons=true&theme=tokyonight) | ![Suraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suraj-git07&theme=tokyonight) |
