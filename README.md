@@ -1,6 +1,8 @@
+![header](https://media-exp1.licdn.com/dms/image/C4D16AQHeZjmr4D5Ynw/profile-displaybackgroundimage-shrink_350_1400/0/1660760547902?e=1666224000&v=beta&t=9z7pfCBet4xLsYK8LF-LofRcA9ezpJfLVeA8lEkk4bY)
+
 ## Hello I am SURAJ MISHRA <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-Skills:Web_dev, Dapp on Ehereum
+Skills: Smart Contract Creaction | Blockchain | Web3.0 | Web2.0 | 
 
 - 🌱 I’m currently learning about Web3.0 
 - 📫 How to reach me: suraj844722@gmail.com 
