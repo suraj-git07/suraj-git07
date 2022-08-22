@@ -2,15 +2,26 @@
 
 <h1 align="center"> Suraj Mishra </h1>
 
-<h4 align="center">  Smart Contract | Blockchain Developer | Web3.0 | Web2.0  </h4>
+<h4 align="center">  
+
+```
+Smart Contract | Blockchain Developer | Web3.0 | Web2.0  
+```
+</h4>
+
 <hr>
 
 <h3 >About Me:</h3>
  
+ ```
  - 👨‍🎓 First year Btech Student in USICT, GGSIPU
- - 📃 I am a Smart contract developer 
+
+ - 📃 I am a Smart contract developer
+ 
  - 🌱 I’m currently learning about diffrent Web3.0 tech 
+ 
  - 📫 How to reach me: suraj844722@gmail.com 
+ ```
 
 <hr>
 
