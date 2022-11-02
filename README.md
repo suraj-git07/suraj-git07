@@ -1,4 +1,4 @@
-![header](https://media-exp1.licdn.com/dms/image/C4D16AQHeZjmr4D5Ynw/profile-displaybackgroundimage-shrink_350_1400/0/1660760547902?e=1666224000&v=beta&t=9z7pfCBet4xLsYK8LF-LofRcA9ezpJfLVeA8lEkk4bY)
+![header](https://media-exp1.licdn.com/dms/image/C4D16AQHeZjmr4D5Ynw/profile-displaybackgroundimage-shrink_350_1400/0/1660760547902?e=1672876800&v=beta&t=1Xo_wtC-JM1p3dyu-ZC8gsonBz02NpJDU1XUxI8WId8)
 
 <h1 align="center"> Suraj Mishra </h1>
 
