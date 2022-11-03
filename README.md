@@ -14,7 +14,7 @@ Smart Contract | Blockchain Developer | Web3.0 | Web2.0
 <h3 >About Me:</h3>
  
  ```
- - 👨‍🎓 First year Btech Student in USICT, GGSIPU
+ - 👨‍🎓 Second year Btech Student in USICT, GGSIPU
 
  - 📃 I am a Smart contract developer
  
