@@ -38,8 +38,10 @@ Smart Contract | Blockchain Developer | Web3.0 | Web2.0
 <p align="center">
 <img src = "https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" alt = "Ethereum" width = "45" height = "45"/><img src = "https://media.giphy.com/media/XXJN8wBUPfBxtCnZ4v/giphy.gif" alt = "Metamask" width = "45" height = "45"/>
 <img src = "https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt = "Truffle" width = "45" height = "45"/>
-<img src = "https://gitcoin.co/dynamic/kudos/24468/solidity_pro" alt = "Solidity" width = "45" height = "45"/>
+ <img src = "https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt = "HardHat" width = "45" height = "45"/>
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DAo2-QN7gP_RUGiTxRTX1Lw63tbNcRMrCCQn8NrTlXwULIuIheg9W-gOrjAX_SANTbw&usqp=CAU" alt = "Solidity" width = "45" height = "45"/>
 <img src = "https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt = "Ganache" width = "45" height = "45"/>
+ <img src = "https://0xchai.io/static/images/ethersjs.png" alt = "EtherJs" width = "60" height = "45"/>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt = "IPFS" width = "45" height = "45"/></p>
 
 <hr>
