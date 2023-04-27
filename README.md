@@ -1,4 +1,4 @@
-![header](https://media.licdn.com/dms/image/C4D16AQHeZjmr4D5Ynw/profile-displaybackgroundimage-shrink_350_1400/0/1660760547902?e=1681344000&v=beta&t=Fy114ar6uu8ts2cox7hxYo3W1NqMqfoKw3rWgxdjLg0)
+<img src="https://insidebitcoins.com/wp-content/uploads/2022/04/5-top-web.png"/>
 
 <h1 align="center"> Suraj Mishra </h1>
 
