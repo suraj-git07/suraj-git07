@@ -2,12 +2,15 @@
 
 <h1 align="center"> I'am Suraj </h1>
 
-<h4 align="center">  
+<div align="center">
+ 
 
-```
- Smart Contract | Full Stack Blockchain Developer | Web3.0 | MERN
-```
-</h4>
+   ```
+  Smart Contract | Full Stack Blockchain Developer | Web3.0 | MERN
+  ```
+
+
+</div>
 
 <hr>
 
