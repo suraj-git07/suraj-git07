@@ -14,11 +14,9 @@ Smart Contract | Blockchain Developer | Web3.0 | Web2.0
 <h3 >About Me:</h3>
  
  ```
- - 👨‍🎓 Third year Btech Student in USICT, GGSIPU
+ - 👨‍🎓 Forth year Btech Student in USICT, GGSIPU
 
- - 📃 I am a Smart contract developer
- 
- - 🌱 I’m currently learning about diffrent Web3.0 tech 
+ - 📃 I am a Full Stack Blockchain developer
  
  - 📫 How to reach me: suraj844722@gmail.com 
  ```
