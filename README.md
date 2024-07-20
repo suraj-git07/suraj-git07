@@ -5,7 +5,7 @@
 <h4 align="center">  
 
 ```
-Smart Contract | Full Stack Blockchain Developer | Web3.0 | MERN
+ Smart Contract | Full Stack Blockchain Developer | Web3.0 | MERN
 ```
 </h4>
 
