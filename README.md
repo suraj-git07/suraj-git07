@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D5616AQES38wlMgQdng/profile-displaybackgroundimage-shrink_350_1400/0/1721499287433?e=1726704000&v=beta&t=3fUrNRPbtxJWh-ZhyjHZoP0uZvvEvXX8HQ7VKa77cxg"/>
-
 <h1 align="center"> I'am Suraj </h1>
 
 <div align="center">
@@ -17,7 +15,7 @@
 <h3 >About Me:</h3>
  
  ```
- - 👨‍🎓 Forth year Btech Student in USICT, GGSIPU
+ - 👨‍🎓 Btech from GGSIPU
 
  - 📃 I am a Full Stack Blockchain developer, with expertise in MERN combined with strong knowledge of Data Structures
 and Algorithms.
