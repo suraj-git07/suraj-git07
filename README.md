@@ -23,11 +23,9 @@ Full Stack Developer | DevOps & Data Engineering | Associate Engineer @ Nagarro 
 
 <div align="left">
 
-Data Engineer with hands-on experience in designing, building, and maintaining scalable data pipelines and cloud-native analytics platforms.  
-Proficient in modern data engineering tools such as **Snowflake, Apache Airflow, dbt, Apache Spark / PySpark, Python, Databricks**, and **SQL**.  
+Data Engineer with hands-on experience in designing, building, and maintaining scalable data pipelines and cloud-native analytics platforms. Proficient in modern data engineering tools such as **Snowflake, Apache Airflow, dbt, Apache Spark / PySpark, Python, Databricks**, and **SQL**.  
 
-Strong DevOps background with experience in **AWS, Docker, Kubernetes, Terraform, and Linux**, along with Full Stack development skills.  
-Passionate about building reliable, production-grade data systems and optimizing end-to-end data workflows.
+Strong DevOps background with experience in **AWS, Docker, Kubernetes, Terraform, and Linux**, along with Full Stack development skills. Passionate about building reliable, production-grade data systems and optimizing end-to-end data workflows.
 
 </div>
 
