@@ -1,4 +1,8 @@
-<h1 align="center"> Hi there, I'm Suraj 👋 </h1>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFyepHFvEL7Qw/profile-displaybackgroundimage-shrink_350_1400/B56ZjDtrsfG0AY-/0/1755630190180?e=1770854400&v=beta&t=t3Fa0MxlMUDOo2G2eioXADSlwWTOVMyWz3VVno5oWic" alt="Banner" />
+</p>
+
+<!-- <h1 align="center"> Hi there, I'm Suraj 👋 </h1> -->
 
 <div align="center">
  
@@ -15,19 +19,23 @@ Full Stack Developer | DevOps & Data Engineering | Associate Engineer @ Nagarro 
 
 </div>
 
-## 🚀 About Me
+<br>
+
+<div align="center">
 
 Data Engineer with hands-on experience in designing, building, and maintaining scalable data pipelines and cloud-native analytics platforms.  
-Proficient in modern data engineering tools such as **Snowflake, Apache Airflow, dbt, Apache Spark/pyspark, Python, Databricks**, and **SQL**.  
+Proficient in modern data engineering tools such as **Snowflake, Apache Airflow, dbt, Apache Spark / PySpark, Python, Databricks**, and **SQL**.  
 
 Strong DevOps background with experience in **AWS, Docker, Kubernetes, Terraform, and Linux**, along with Full Stack development skills.  
 Passionate about building reliable, production-grade data systems and optimizing end-to-end data workflows.
 
+</div>
+
+
 ---
 
-## 🛠️ Tech Stack
 
-<div align="center">
+<div align="center" >
 
 ### Data Engineering & Analytics
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -55,7 +63,10 @@ Passionate about building reliable, production-grade data systems and optimizing
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -63,8 +74,8 @@ Passionate about building reliable, production-grade data systems and optimizing
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
