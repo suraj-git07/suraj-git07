@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFyepHFvEL7Qw/profile-displaybackgroundimage-shrink_350_1400/B56ZjDtrsfG0AY-/0/1755630190180?e=1770854400&v=beta&t=t3Fa0MxlMUDOo2G2eioXADSlwWTOVMyWz3VVno5oWic" alt="Banner" />
+  <img src="assests/banner.jpg" alt="Banner" />
 </p>
 
 <!-- <h1 align="center"> Hi there, I'm Suraj 👋 </h1> -->
